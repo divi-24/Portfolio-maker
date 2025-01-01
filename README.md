@@ -15,7 +15,7 @@ Before you can start contributing to PortfolioBuilder, you need to set up your d
 
 ### Fork the Repository
 
-1. Fork the [PortfolioBuilder repository](https://github.com/divi-24/Portfolio-maker.git) to your GitHub account by clicking the "Fork" button on the top-right corner of the repository page.
+1. Fork the [Portfolio-maker repository](https://github.com/divi-24/Portfolio-maker.git) to your GitHub account by clicking the "Fork" button on the top-right corner of the repository page.
 
 ### Clone Your Fork
 
