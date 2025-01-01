@@ -54,7 +54,7 @@ Before you can start contributing to PortfolioBuilder, you need to set up your d
 
 ## Contributing
 
-We welcome all contributions, big or small. Here's how you can contribute to PortfolioBuilder:
+We welcome all contributions, big or small. Here's how you can contribute to Portfolio-maker:
 
 1. **Pick an Issue**: Check out our [Issues](https://github.com/divi-24/Portfolio-maker.git/issues) page to find a task that interests you. 
 
@@ -72,8 +72,3 @@ We welcome all contributions, big or small. Here's how you can contribute to Por
 
 9. **Merge**: Once your pull request is approved, it will be merged into the main project.
 
-## Happy Hacking!
-
-Thank you for participating in Portfolio Builder Hacktoberfest. We appreciate your contributions, and together, we can make PortfolioBuilder even better for college students everywhere. If you have any questions or need assistance, feel free to reach out to us via GitHub issues or our community chat.
-
-Happy coding! 🚀🎉
